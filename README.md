@@ -1,4 +1,4 @@
-# WOW Hack 2014 Showcase site
+# Hack Out West 2015 Showcase site
 
 ## Develop
 
