@@ -26,5 +26,6 @@ gulp css    # Compile Scss to minified CSS
 gulp watch  # Watch and compile Scss to CSS on change
 gulp serve  # Runs server *and* watches Scss
 ```
+Using the code for a different org? Don't forget to change the team GitHub ID hard coded in [winners.json](winners.json) and `OWNERS_ID` in [teams.js](teams.js).
 
 We take PRs!
